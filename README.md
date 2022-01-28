@@ -5,6 +5,7 @@
 <p>
   <a href=https://dolpari-is-come.tistory.com target="_blank"><img src="https://img.shields.io/badge/dolpari Site-430098?style=for-the-badge&logo=tistory&logoColor=white"/></a>    <a href=https://www.facebook.com/ppapesib target="_blank"><img src="https://img.shields.io/badge/dolpari Site-430098?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
   <a href="https://www.instagram.com/dolpari_05" target="_blank"><img src="https://img.shields.io/badge/dolpari-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href=https://twitter.com/dodododolpari target="_blank"><img src="https://img.shields.io/badge/dolpari Site-430098?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
 안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발 등을 진행하며 T3N4CI0US 팀에 소속해있는 학생입니다 !
