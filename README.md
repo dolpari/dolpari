@@ -1,5 +1,32 @@
-👋 Hi there 👋
-https://www.instagram.com/dolpari_05/?hl=ko (instagram site)
-https://www.facebook.com/ppapesib/ (facebook site)
+:wave: Hi there :wave:
 
-안녕하세요 :) 저는 Dolpari라는 닉네임을 가지고 각종 CTF나 프로젝트, 개발 등을 진행하고 있는 CYB3R - T3N4CI0US팀 소속의 고등학생입니다.
+[![Github Followers](https://img.shields.io/github/followers/username?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/username?tab=followers)
+
+<p>
+  <a href=https://dolpari-is-come.tistory.com target="_blank"><img src="https://img.shields.io/badge/dolpari Site-430098?style=for-the-badge&logo=tistory&logoColor=white"/></a> //   <a href=https://www.facebook.com/ppapesib target="_blank"><img src="https://img.shields.io/badge/dolpari Site-430098?style=for-the-badge&logo=facebook&logoColor=white"/></a> //
+  <a href="https://www.instagram.com/dolpari_05" target="_blank"><img src="https://img.shields.io/badge/dolpari-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
+<p>
+안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발 등을 진행하며 T3N4CI0US 팀에 소속해있는 학생입니다 !
+</p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dolpari)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=username)](https://solved.ac/cyb3r_syno) -->
+
+## Activity // 수상 내역
+* 2021 Christmas 대회 주체
+* Damncon CTF 5등 : 해외 CTF / 팀전
+* TFC CTF 2021 14등 : 해외 CTF / 팀전
+* nite CTF 2021 13등 : 해외 CTF / 팀전
+* Metared CTF 5th Stage 9등 : 해외 CTF / 팀전
+* CSC CTF 2022 7등 : 해외 CTF / 팀전
+* 2022 설날 CTF 주최
+
+## Affiliation // 소속
+* T3N4CI0US 소속
+
+## Contact // 개인 연락처 (Contact 할 수 있는 이메일이나 연락처)
+* p051007@naver.com 개인 업무용 이메일 (for personal business)
+* t3n4ci0us@naver.com [T3N4CI0US] 소속 팀 이메일 (for team business)
