@@ -17,7 +17,7 @@
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=username)](https://solved.ac/cyb3r_syno) -->
 
 ## Activity 
-* 2021 Christmas 대회 주체(문제 출제 및 사이트 관리)
+* 2021 Christmas 대회 주최(문제 출제 및 사이트 관리)
 * Damncon CTF 5등 : 해외 CTF / 팀전
 * TFC CTF 2021 14등 : 해외 CTF / 팀전
 * nite CTF 2021 13등 : 해외 CTF / 팀전
@@ -25,6 +25,7 @@
 * CSC CTF 2022 7등 : 해외 CTF / 팀전
 * 2022 설날 CTF 대회 주최(사이트 관리)
 * T3N4CI0US CTF 2022 대회 주최(문제 출제 및 사이트 관리 / ctftime 등록 대회)
+* NFT 공부중
 
 ## Affiliation  
 * T3N4CI0US 소속
