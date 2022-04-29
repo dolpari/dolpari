@@ -8,7 +8,7 @@
   <a href=https://twitter.com/dodododolpari target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발 등을 진행하며 T3N4CI0US 팀에 소속해있는 학생입니다 !
+안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, NFT 등을 진행하며 T3N4CI0US 팀에 소속해있는 학생입니다 !
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dolpari)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,19 +16,21 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=username)](https://solved.ac/cyb3r_syno) -->
 
-## Activity 
-* 2021 Christmas 대회 주최(문제 출제 및 사이트 관리)
+## 참가
 * Damncon CTF 5등 : 해외 CTF / 팀전
 * TFC CTF 2021 14등 : 해외 CTF / 팀전
 * nite CTF 2021 13등 : 해외 CTF / 팀전
 * Metared CTF 5th Stage 9등 : 해외 CTF / 팀전
 * CSC CTF 2022 7등 : 해외 CTF / 팀전
+
+## 주최
+* 2021 Christmas 대회 주최(문제 출제 및 사이트 관리)
 * 2022 설날 CTF 대회 주최(사이트 관리)
 * T3N4CI0US CTF 2022 대회 주최(문제 출제 및 사이트 관리 / ctftime 등록 대회)
-* NFT 공부중
 
 ## Affiliation  
-* T3N4CI0US 소속
+* T3N4CI0US 부팀장
+* NFT - TANA
 
 ## Contact  
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
