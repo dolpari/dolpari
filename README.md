@@ -22,6 +22,7 @@
 * nite CTF 2021 13등 : 해외 CTF / 팀전
 * Metared CTF 5th Stage 9등 : 해외 CTF / 팀전
 * CSC CTF 2022 7등 : 해외 CTF / 팀전
+* Digital Overdose Conference 2022 CTF 10등 :해외 CTF / 팀전
 
 ## 주최
 * 2021 Christmas 대회 주최(문제 출제 및 사이트 관리)
