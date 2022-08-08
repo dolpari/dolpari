@@ -8,7 +8,7 @@
   <a href=https://twitter.com/dodododolpari target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, NFT 등을 진행하며 T3N4CI0US 팀에 소속해있는 학생입니다 !
+안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, NFT 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 재학중인 남현서 학생입니다 !
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dolpari)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,13 +26,23 @@
 * 강원도 드론 메이커스 대회 금상
 
 ## 주최
-* 2021 Christmas 대회 주최(문제 출제 및 사이트 관리)
-* 2022 설날 CTF 대회 주최(사이트 관리)
-* T3N4CI0US CTF 2022 대회 주최(문제 출제 및 사이트 관리 / ctftime 등록 대회)
+* 2021 Christmas 대회 주최 (문제 출제 및 사이트 관리)
+* 2022 설날 CTF 대회 주최 (문제 출제 및 사이트 관리)
+* T3N4CI0US CTF 2022 대회 주최 (문제 출제 및 사이트 관리 / ctftime 등록 대회)
+* T3N4CI0US Escape CTF 대회 주최 (문제 출제 및 사이트 관리 / ctftime 등록 대회)
 
 ## Affiliation  
 * T3N4CI0US 부팀장
 * NFT - TANA
+* TensorFlow
+
+## 분야
+* Web
+* Crypto
+* Python
+* TensorFlow
+* Reversing
+* MISC
 
 ## Contact  
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
