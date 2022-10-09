@@ -41,9 +41,9 @@
 * Crypto
 * Python
 * TensorFlow
-* Reversing
 * MISC
 
 ## Contact  
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
 * t3n4ci0us@naver.com [T3N4CI0US] 소속 팀 이메일 (for team business)
+* team site - https://t3n4ci0us.kr/
