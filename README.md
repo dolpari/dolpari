@@ -8,7 +8,7 @@
   <a href=https://twitter.com/dodododolpari target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, NFT 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 재학중인 남현서 학생입니다 !
+안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, 게임 제작, 드론, 3D 프린터 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 재학중인 남현서 학생입니다 !
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dolpari)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,18 +23,24 @@
 * Metared CTF 5th Stage 9등 : 해외 CTF / 팀전
 * CSC CTF 2022 7등 : 해외 CTF / 팀전
 * Digital Overdose Conference 2022 CTF 10등 :해외 CTF / 팀전
-* 강원도 드론 메이커스 대회 금상
+* 강원도 드론 메이커스 2021 대회 금상
+* 강원도 드론 메이커스 2022 대회 은상
+* 강원도 회장기 유도 대회 겸 전국대회 선발전 1등(금메달)
 
 ## 주최
 * 2021 Christmas 대회 주최 (문제 출제 및 사이트 관리)
 * 2022 설날 CTF 대회 주최 (문제 출제 및 사이트 관리)
 * T3N4CI0US CTF 2022 대회 주최 (문제 출제 및 사이트 관리 / ctftime 등록 대회)
+* T3N4CI0US Basic CTF 대회 주최 (문제 출제 및 사이트 관리 / ctftime 등록 대회)
 * T3N4CI0US Escape CTF 대회 주최 (문제 출제 및 사이트 관리 / ctftime 등록 대회)
 
 ## Affiliation  
-* T3N4CI0US 부팀장
+* T3N4CI0US - 부팀장
 * NFT - TANA
-* TensorFlow
+* 김화공업고등학교
+* 초경량무인비행장치 조종자 자격증 1종
+* 3D 프린터 운용가능사
+* 
 
 ## 분야
 * Web
@@ -42,8 +48,10 @@
 * Python
 * TensorFlow
 * MISC
+* Network
 
 ## Contact  
+* instargram dolpari_05 
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
 * t3n4ci0us@naver.com [T3N4CI0US] 소속 팀 이메일 (for team business)
 * team site - https://t3n4ci0us.kr/
