@@ -46,7 +46,6 @@
 * T3N4CI0US CTF - 설날 주최 및 출제자 ( MISC, Crypto ) - (T3N4CI0US)
 * T3N4CI0US CTF 2022 주최 및 출제자 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US)
 * T3N4CI0US CTF - Escape 주최 및 출제자 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US)
-* Suspense CTF 2022 출제자 ( Forensic )
 
 ## Affiliation  
 * T3N4CI0US 소속( 2021.06 ~ )
