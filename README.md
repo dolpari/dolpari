@@ -13,7 +13,7 @@
 <p>
 안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, 게임 제작, 드론, 3D 프린터 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 재학중인 남현서 학생입니다 !
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolpari&layout=compact)](https://github.com/dolpari/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=username)](https://solved.ac/cyb3r_syno) -->
