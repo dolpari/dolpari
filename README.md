@@ -11,7 +11,7 @@
   <a href=https://twitter.com/dodododolpari target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, 게임 제작, 드론, 3D 프린터 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 재학중인 남현서 학생입니다 !
+안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, 게임 제작, 드론, 3D 프린터 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 졸업했으며 지금은 순천향대학교 정보보호학과에 재학중인 남현서 학생입니다 !(아직 업데이트를 하지 못한 부분이 많습니다 천천히 업데이트 하겠습니다.)
 </p>
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
@@ -40,12 +40,16 @@
   * 2022년 강원학생 평화 통일교육 한마당 참가 및 수상 
   * 강원도 드론 메이커스 2022 대회 은상
   * 강원도 회장기 유도 대회 겸 전국대회 선발전 1등( 금메달 )
+ 
++ 2023
++ 업데이트 예정
 
 ## 주최/출제
 * T3N4CI0US CTF - Christmas 주최 및 출제자 ( MISC ) - (Normaltic & T3N4CI0US)
 * T3N4CI0US CTF - 설날 주최 및 출제자 ( MISC, Crypto ) - (T3N4CI0US)
 * T3N4CI0US CTF 2022 주최 및 출제자 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US)
 * T3N4CI0US CTF - Escape 주최 및 출제자 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US)
+* T3N4CI0US CTF - Escape 주최 및 출제자 (MISC) - (영남이공대학교 & T3N4CI0US)
 
 ## Affiliation  
 * T3N4CI0US 소속( 2021.06 ~ )
@@ -54,11 +58,12 @@
 * 현대오토에버 화이트해커 양성교육 수료(2023)
 * 김화공업고등학교( 2021 ~ )
 * 초경량무인비행장치 조종자 자격증 1종
+* 항공전자정비 기능사
 
 ## 분야
-* Web
-* Crypto
-* MISC
+* >???
+* >???
+* >???
 
 ## Contact  
 * instargram dolpari_05 
