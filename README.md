@@ -42,23 +42,27 @@
   * 강원도 회장기 유도 대회 겸 전국대회 선발전 1등( 금메달 )
  
 + 2023
-+ 업데이트 예정
+  * 정관장 UCC영상공모전 우수상 수상
+  * 한국 폴리텍 대학 3D프린터 제품 제작 우수상 수상
+  * 업데이트 예정
 
 ## 주최/출제
 * T3N4CI0US CTF - Christmas 주최 및 출제자 ( MISC ) - (Normaltic & T3N4CI0US)
-* T3N4CI0US CTF - 설날 주최 및 출제자 ( MISC, Crypto ) - (T3N4CI0US)
+* T3N4CI0US CTF - 설날 주최 및 출제자 ( MISC, Crypto ) - (TeamH4C(Sechack[권율], me2nuk[김민욱] & T3N4CI0US)
 * T3N4CI0US CTF 2022 주최 및 출제자 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US)
 * T3N4CI0US CTF - Escape 주최 및 출제자 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US)
-* T3N4CI0US CTF - Escape 주최 및 출제자 (MISC) - (영남이공대학교 & T3N4CI0US)
+* T3N4CI0US CTF - Escape Final 주최 및 출제자 (MISC) - (영남이공대학교 & T3N4CI0US)
 
 ## Affiliation  
-* T3N4CI0US 소속( 2021.06 ~ )
-* T3N4CI0US - 부팀장( 2022.03 ~ )
-* Pr0m3nt 소속( 2023.04 ~ )
+* T3N4CI0US 소속( 2021.06 ~ 활동 중단)
+* T3N4CI0US - 부팀장( 2022.03 ~ 활동 중단)
+* Pr0m3nt 소속( 2023.04 ~ 활동 중단)
 * 현대오토에버 화이트해커 양성교육 수료(2023)
 * 김화공업고등학교( 2021 ~ )
 * 초경량무인비행장치 조종자 자격증 1종
 * 항공전자정비 기능사
+* 운전면허증 1종 보통
+* 순천향대학교 정보보호학과
 
 ## 분야
 * >???
@@ -69,7 +73,7 @@
 * instargram dolpari_05 
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
 * t3n4ci0us@naver.com [T3N4CI0US] 소속 팀 이메일 (for team business)
-* team site - https://t3n4ci0us.kr/
+* team site - https://t3n4ci0us.kr/ (현재 활동을 중단하여 사이트 내림)
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
