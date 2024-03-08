@@ -11,7 +11,7 @@
   <a href=https://twitter.com/dodododolpari target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, 게임 제작, 드론, 3D 프린터 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 졸업했으며 지금은 순천향대학교 정보보호학과에 재학중인 남현서 학생입니다 !(아직 업데이트를 하지 못한 부분이 많습니다 천천히 업데이트 하겠습니다.)
+안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, 게임 제작, 드론, 3D 프린터 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 졸업했으며 지금은 순천향대학교 정보보호학과에 재학중인 남현서 학생입니다 !아직 부족한 부분과 배울점이 많지만 자 부탁드립니다. (아직 업데이트를 하지 못한 부분이 많습니다 천천히 업데이트 하겠습니다.)
 </p>
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
@@ -47,22 +47,23 @@
   * 업데이트 예정
 
 ## 주최/출제
-* T3N4CI0US CTF - Christmas 주최 및 출제자 ( MISC ) - (Normaltic & T3N4CI0US)
-* T3N4CI0US CTF - 설날 주최 및 출제자 ( MISC, Crypto ) - (TeamH4C(Sechack[권율], me2nuk[김민욱] & T3N4CI0US)
-* T3N4CI0US CTF 2022 주최 및 출제자 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US)
-* T3N4CI0US CTF - Escape 주최 및 출제자 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US)
-* T3N4CI0US CTF - Escape Final 주최 및 출제자 (MISC) - (영남이공대학교 & T3N4CI0US)
-
+* T3N4CI0US 2021 Christmas CTF - 주최 및 출제자 ( MISC ) - (Normaltic & T3N4CI0US) - 2021
+* T3N4CI0US 2022 설날 CTF - 주최 및 출제자 ( MISC, Crypto ) - (TeamH4C(Sechack[권율], me2nuk[김민욱] & T3N4CI0US)
+* T3N4CI0US CTF 2022 - 주최 및 출제자 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US)
+* T3N4CI0US 2023/3 CTF - Escape 주최 및 출제자 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US)
+* T3N4CI0US 2023~24 CTF - EscpaeCTF 주최 및 출제자 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (예선)
+* T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 출제자 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (본선)
+ 
 ## Affiliation  
-* T3N4CI0US 소속( 2021.06 ~ 활동 중단)
-* T3N4CI0US - 부팀장( 2022.03 ~ 활동 중단)
+* T3N4CI0US 소속( 2021.06 ~ 2024년 3월부로 활동 중단)
+* T3N4CI0US - 부팀장( 2022.03 ~ 2024년 3월부로 활동 중단)
 * Pr0m3nt 소속( 2023.04 ~ 활동 중단)
 * 현대오토에버 화이트해커 양성교육 수료(2023)
-* 김화공업고등학교( 2021 ~ )
+* 김화공업고등학교( 2021 ~ 2023)
 * 초경량무인비행장치 조종자 자격증 1종
 * 항공전자정비 기능사
 * 운전면허증 1종 보통
-* 순천향대학교 정보보호학과
+* 순천향대학교 정보보호학과(24학번)
 
 ## 분야
 * >???
