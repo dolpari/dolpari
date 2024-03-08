@@ -8,7 +8,6 @@
 <p>
   <a href=https://dolpari-is-come.tistory.com target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-tistory&logo=tistory&logoColor=white"/></a>    <a href=https://www.facebook.com/ppapesib target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
   <a href="https://www.instagram.com/dolpari_05" target="_blank"><img src="https://img.shields.io/badge/dolpari-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href=https://twitter.com/dodododolpari target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
 안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, 게임 제작, 드론, 3D 프린터 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 졸업했으며 지금은 순천향대학교 정보보호학과에 재학중인 남현서 학생입니다 !아직 부족한 부분과 배울점이 많지만 자 부탁드립니다. (아직 업데이트를 하지 못한 부분이 많습니다 천천히 업데이트 하겠습니다.)
