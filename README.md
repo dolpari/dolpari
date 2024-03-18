@@ -69,10 +69,10 @@
 * 분야를 찾지 못해 머나먼 길을 떠나고 있는 사람..
 
 ## Contact  
-* instargram dolpari_05 
+* instargram - dolpari_05 
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
 * t3n4ci0us@naver.com [T3N4CI0US] 소속 팀 이메일 (for team business)
-* team site - https://t3n4ci0us.kr/ (현재 활동을 중단하여 사이트 내림)
+* team site - https://t3n4ci0us.kr/ (현재 사이트 다운)
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
