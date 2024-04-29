@@ -21,7 +21,7 @@
 ## 참가
 + 2021
   * Tamil CTF 19등 ( 팀전 )
-  * Digital Overdose 30등 ( 팀전 )
+  * Digital Overdose 10등 ( 팀전 )
   * DamnCon 5등 ( 팀전 )
   * TFC CTF 14등 ( 팀전 )
   * Metared CTF 5th Stage 9등 ( 팀전 )
@@ -34,6 +34,7 @@
   * CSC CTF 7등 ( 팀전 )
   * wtfctf 2022 8등 ( 팀전 )
   * Digital Overdose Conference 2022 CTF 10등 ( 팀전 )
+  * ractf 10등 (팀전)
   * SW융합 해커톤(제 9회) 본선 진출
   * 2022년 9회 학교폭력예방 UCC 공모전 고등부 금상
   * 2022년 강원학생 평화 통일교육 한마당 참가 및 수상 
