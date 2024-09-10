@@ -45,14 +45,15 @@
 + 2023
   * 정관장 UCC영상공모전 우수상 수상
   * 한국 폴리텍 대학 3D프린터 제품 제작 우수상 수상
-  * 현대오토에버 화이트해커 양성교육 우수학생 수료( 2023 )
-  * 
+  * 현대오토에버 화이트해커 양성교육 ( 우수장학생 & 2023 )
+    
 
 ## 주최/출제
 * T3N4CI0US 2021 Christmas CTF - 주최 및 문제 출제 ( MISC ) - (Normaltic & T3N4CI0US) - 2021
 * T3N4CI0US 2022 설날 CTF - 주최 및 문제 출제 ( MISC, Crypto ) - (TeamH4C - Sechack[권율], me2nuk[김민욱] & T3N4CI0US) - 2022
 * T3N4CI0US CTF 2022 - 주최 및 문제 출제 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US) - 2022
 * 영남이공대학교 Christmas CTF 2022 - 문제 출제 (Web) - (YESS & T3N4CI0US) - 2022
+* Suspense CTF 2022 출제자 (Misc, Web) - 2022
 * T3N4CI0US 2023/3 CTF - Escape 주최 및 문제 출제 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US) - 2023
 * T3N4CI0US 2023~24 CTF - EscpaeCTF 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (예선) - 2023
 * T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (본선) - 2023
@@ -64,7 +65,7 @@
 * CCA
 * KUCIS
 * From Zero 소속( 2024.06 ~ )
-* 현대오토에버 화이트해커 양성교육 수료
+* 현대오토에버 화이트해커 양성교육 (우수장학생 & 2023)
 * 김화공업고등학교( 2021 ~ 2023 )
 * 초경량무인비행장치 조종자 자격증 1종
 * 항공전자정비 기능사
