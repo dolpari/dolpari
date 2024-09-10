@@ -40,35 +40,41 @@
   * 2022년 강원학생 평화 통일교육 한마당 참가 및 수상 
   * 강원도 드론 메이커스 2022 대회 은상
   * 강원도 회장기 유도 대회 겸 전국대회 선발전 1등( 금메달 )
+  * 강원도 유도 도대표 선발
  
 + 2023
   * 정관장 UCC영상공모전 우수상 수상
   * 한국 폴리텍 대학 3D프린터 제품 제작 우수상 수상
-  * 업데이트 예정
+  * 현대오토에버 화이트해커 양성교육 우수학생 수료( 2023 )
+  * 
 
 ## 주최/출제
-* T3N4CI0US 2021 Christmas CTF - 주최 및 출제자 ( MISC ) - (Normaltic & T3N4CI0US) - 2021
-* T3N4CI0US 2022 설날 CTF - 주최 및 출제자 ( MISC, Crypto ) - (TeamH4C(Sechack[권율], me2nuk[김민욱] & T3N4CI0US)
-* T3N4CI0US CTF 2022 - 주최 및 출제자 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US)
-* T3N4CI0US 2023/3 CTF - Escape 주최 및 출제자 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US)
-* T3N4CI0US 2023~24 CTF - EscpaeCTF 주최 및 출제자 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (예선)
-* T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 출제자 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (본선)
+* T3N4CI0US 2021 Christmas CTF - 주최 및 문제 출제 ( MISC ) - (Normaltic & T3N4CI0US) - 2021
+* T3N4CI0US 2022 설날 CTF - 주최 및 문제 출제 ( MISC, Crypto ) - (TeamH4C - Sechack[권율], me2nuk[김민욱] & T3N4CI0US) - 2022
+* T3N4CI0US CTF 2022 - 주최 및 문제 출제 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US) - 2022
+* 영남이공대학교 Christmas CTF 2022 - 문제 출제 (Web) - (YESS & T3N4CI0US) - 2022
+* T3N4CI0US 2023/3 CTF - Escape 주최 및 문제 출제 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US) - 2023
+* T3N4CI0US 2023~24 CTF - EscpaeCTF 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (예선) - 2023
+* T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (본선) - 2023
+* 
  
 ## Affiliation  
 * T3N4CI0US 소속( 2021.06 ~ )
 * T3N4CI0US - 부팀장( 2022.03 ~ )
-* Pr0m3nt 소속( 2023.04 ~ )
-* 현대오토에버 화이트해커 양성교육 수료(2023)
-* 김화공업고등학교( 2021 ~ 2023)
+* CCA
+* KUCIS
+* From Zero 소속( 2024.06 ~ )
+* 현대오토에버 화이트해커 양성교육 수료
+* 김화공업고등학교( 2021 ~ 2023 )
 * 초경량무인비행장치 조종자 자격증 1종
 * 항공전자정비 기능사
 * 운전면허증 1종 보통
 * 순천향대학교 정보보호학과(24학번)
-* SecurityFirst - NB( 2024.03~ )
+* SecurityFirst - YB( 2024.03~ )
 
 ## 분야
 * WEB Hacking를 전공으로 하려는 학생
-
+* Forensic, Pwnable도 노리고 있음
 ## Contact  
 * instargram - dolpari_05 
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
