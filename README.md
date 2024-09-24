@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/dolpari_05" target="_blank"><img src="https://img.shields.io/badge/dolpari-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 <p>
-안녕하세요 :) 저는 Dolpari라는 닉네임으로 CTF와 프로젝트 및 개발, 게임 제작, 드론, 3D 프린터 등을 진행하며 T3N4CI0US 팀에 소속해있고 김화공업고등학교 IT과에 졸업했으며 지금은 순천향대학교 정보보호학과에 재학중인 남현서 학생입니다 !아직 부족한 부분과 배울점이 많지만 자 부탁드립니다. (아직 업데이트를 하지 못한 부분이 많습니다 천천히 업데이트 하겠습니다.)
+Hi i'm Dolpari Happy :( Hacking  
 </p>
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
@@ -72,10 +72,13 @@
 * 운전면허증 1종 보통
 * 순천향대학교 정보보호학과(24학번)
 * SecurityFirst - YB( 2024.03~ )
+* SecurityFirst - Forensic newbie( 2024.09.24 )
+
 
 ## 분야
-* WEB Hacking를 전공으로 하려는 학생
-* Forensic, Pwnable도 노리고 있음
+* WEB Hacking
+* Forensic
+* System 공부 예정
 ## Contact  
 * instargram - dolpari_05 
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
