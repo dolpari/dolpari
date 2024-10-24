@@ -58,8 +58,8 @@ Hi i'm Dolpari Happy :( Hacking
  
  
 ## Affiliation  
-* T3N4CI0US 소속( 2021.06 ~ )
-* T3N4CI0US - 부팀장( 2022.03 ~ )
+* T3N4CI0US 소속( 2021.06 ~ 2024.03 )
+* T3N4CI0US - 부팀장( 2022.03 ~ 2024.03)
 * CCA
 * KUCIS
 * From Zero 소속( 2024.06 ~ 2024.08)
