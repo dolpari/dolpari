@@ -46,6 +46,8 @@ Hi i'm Dolpari Happy :( Hacking
   * 현대오토에버 화이트해커 양성교육 ( 우수장학생 & 2023 )
   * 강원도 회장기 유도 대회 겸 전국대회 선발전 1등( 금메달 )
 
++ 2024
+  * LISA mobility hackathon 최우수상( 1위 ) 
 
 ## 주최/출제
 * T3N4CI0US 2021 Christmas CTF - 주최 및 문제 출제 ( MISC ) - (Normaltic & T3N4CI0US) - 2021
@@ -55,22 +57,23 @@ Hi i'm Dolpari Happy :( Hacking
 * T3N4CI0US 2023/3 CTF - Escape 주최 및 문제 출제 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US) - 2023
 * T3N4CI0US 2023~24 CTF - EscpaeCTF 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (예선) - 2023
 * T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (본선) - 2023
- 
- 
+* SecurityFirst 순천향대학교 정보보호학과 2024년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 하문제)
+
+
 ## Affiliation  
 * T3N4CI0US 소속( 2021.06 ~ 2024.03 )
 * T3N4CI0US - 부팀장( 2022.03 ~ 2024.03)
 * CCA
 * KUCIS
-* From Zero 소속( 2024.06 ~ 2024.08)
 * 현대오토에버 화이트해커 양성교육 (우수장학생 & 2023)
+* 순천향대학교 정보보호학과(24학번)
+* SecurityFirst - YB( 2024.03 ~ )
+* SecurityFirst - Forensic newbie( 2024.09.24 ~ 2024.12.31 )
+* SecurityFirst - Web 팀장( 2025.01.01 ~ )
 * 김화공업고등학교( 2021 ~ 2023 )
 * 초경량무인비행장치 조종자 자격증 1종
 * 항공전자정비 기능사
 * 운전면허증 1종 보통
-* 순천향대학교 정보보호학과(24학번)
-* SecurityFirst - YB( 2024.03~ )
-* SecurityFirst - Forensic newbie( 2024.09.24 ~ )
 
 
 ## 분야
