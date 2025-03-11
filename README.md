@@ -77,9 +77,8 @@ Hi i'm Dolpari Happy :( Hacking
 
 
 ## 분야
-* WEB 개 망함
-* Forensic 깔짝
-* System 깔짝
+* WEB
+ 
 ## Contact  
 * instargram - dolpari_05 
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
