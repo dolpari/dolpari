@@ -57,14 +57,15 @@ Hi i'm Dolpari Happy :( Hacking
 * T3N4CI0US 2023/3 CTF - Escape 주최 및 문제 출제 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US) - 2023
 * T3N4CI0US 2023~24 CTF - EscpaeCTF 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (예선) - 2023
 * T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (본선) - 2023
-* SecurityFirst 순천향대학교 정보보호학과 2024년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 하문제)
-
-
+* SecurityFirst 순천향대학교 정보보호학과 2024년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 하)
+* SecurityFirst 순천향대학교 정보보호학과 2025년도 연초 해킹 대회 - 운영 및 문제 출제 (WEB 상, 중, 하)
+* 제 23회(2025) 청소년 정보보호 패스티벌(YISF) 문제 출제 및 운영
+  
 ## Affiliation  
 * T3N4CI0US 소속( 2021.06 ~ 2024.03 )
 * T3N4CI0US - 부팀장( 2022.03 ~ 2024.03)
 * CCA
-* KUCIS
+* KUCIS(2024 ~ )
 * 현대오토에버 화이트해커 양성교육 (우수장학생 & 2023)
 * 순천향대학교 정보보호학과(24학번)
 * SecurityFirst - YB( 2024.03 ~ )
