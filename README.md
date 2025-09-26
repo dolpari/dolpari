@@ -20,12 +20,9 @@ Hi i'm Dolpari Happy :( Hacking
 
 ## 참가
 + 2021
-  * Tamil CTF 19등 ( 팀전 )
   * Digital Overdose 10등 ( 팀전 )
   * DamnCon 5등 ( 팀전 )
-  * TFC CTF 14등 ( 팀전 )
   * Metared CTF 5th Stage 9등 ( 팀전 )
-  * niteCTF 13등 ( 팀전 )
   * 제 3회 동학농민혁명 UCC공모전 청소년부 장려상
   * 2021년 강원도 문화유산 영상공모전 장려상
   * 강원도 드론 메이커스 2021 대회 금상
@@ -50,13 +47,13 @@ Hi i'm Dolpari Happy :( Hacking
   * LISA mobility hackathon 최우수상( 1위 ) 
 
 ## 주최/출제
-* T3N4CI0US 2021 Christmas CTF - 주최 및 문제 출제 ( MISC ) - (Normaltic & T3N4CI0US) - 2021
-* T3N4CI0US 2022 설날 CTF - 주최 및 문제 출제 ( MISC, Crypto ) - (TeamH4C - Sechack[권율], me2nuk[김민욱] & T3N4CI0US) - 2022
-* T3N4CI0US CTF 2022 - 주최 및 문제 출제 ( MISC, Crypto ) - (Latent_Hacker & T3N4CI0US) - 2022
-* 영남이공대학교 Christmas CTF 2022 - 문제 출제 (Web) - (YESS & T3N4CI0US) - 2022
-* T3N4CI0US 2023/3 CTF - Escape 주최 및 문제 출제 ( MISC ,Crypto, Web, Forensic ) - (T3N4CI0US) - 2023
-* T3N4CI0US 2023~24 CTF - EscpaeCTF 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (예선) - 2023
-* T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 문제 출제 (MISC) - (영남이공대학교_YESS & T3N4CI0US) - (본선) - 2023
+* T3N4CI0US 2021 Christmas CTF - 주최 및 문제 출제 - (Normaltic & T3N4CI0US) - 2021
+* T3N4CI0US 2022 설날 CTF - 주최 및 문제 출제 - (TeamH4C - Sechack[권율], me2nuk[김민욱] & T3N4CI0US) - 2022
+* T3N4CI0US CTF 2022 - 주최 및 문제 출제 - (Latent_Hacker & T3N4CI0US) - 2022
+* 영남이공대학교 Christmas CTF 2022 - 문제 출제 - (YESS & T3N4CI0US) - 2022
+* T3N4CI0US 2023/3 CTF - Escape 주최 및 문제 출제 - (T3N4CI0US) - 2023
+* T3N4CI0US 2023~24 CTF - EscpaeCTF 주최 및 문제 출제 - (영남이공대학교_YESS & T3N4CI0US) - (예선) - 2023
+* T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 문제 출제 - (영남이공대학교_YESS & T3N4CI0US) - (본선) - 2023
 * SecurityFirst 순천향대학교 정보보호학과 2024년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 하)
 * SecurityFirst 순천향대학교 정보보호학과 2025년도 연초 해킹 대회 - 운영 및 문제 출제 (WEB 상, 중, 하)
 * 제 23회(2025) 청소년 정보보호 패스티벌(YISF) 문제 출제 및 운영
@@ -76,10 +73,11 @@ Hi i'm Dolpari Happy :( Hacking
 * 항공전자정비 기능사
 * 운전면허증 1종 보통
 
-
 ## 분야
 * WEB
- 
+* PWN
+* 임베디드 / 하드웨어
+  
 ## Contact  
 * instargram - dolpari_05 
 * p051007@naver.com 개인 업무용 이메일 (for personal business)
