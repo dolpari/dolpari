@@ -11,6 +11,7 @@
 </p>
 <p>
 Hi i'm Dolpari Happy :( Hacking  
+name = 남현서
 </p>
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
