@@ -10,8 +10,7 @@
   <a href="https://www.instagram.com/dolpari_05" target="_blank"><img src="https://img.shields.io/badge/dolpari-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 <p>
-* Hi i'm Dolpari Happy :( Hacking  
-* name = 남현서
+Hi i'm Dolpari Happy :( Hacking  //  남현서
 </p>
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
