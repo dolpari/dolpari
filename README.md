@@ -44,7 +44,10 @@ Hi i'm Dolpari Happy :( Hacking  //  남현서
   * 강원도 회장기 유도 대회 겸 전국대회 선발전 1등( 금메달 )
 
 + 2024
-  * LISA mobility hackathon 최우수상( 1위 ) 
+  * LISA mobility hackathon 최우수상( 1위 )
+ 
++ 2025
+  * 울산해킹대회 final list
 
 ## 주최/출제
 * T3N4CI0US 2021 Christmas CTF - 주최 및 문제 출제 - (Normaltic & T3N4CI0US) - 2021
@@ -59,15 +62,17 @@ Hi i'm Dolpari Happy :( Hacking  //  남현서
 * 제 23회(2025) 청소년 정보보호 패스티벌(YISF) 문제 출제 및 운영
   
 ## Affiliation  
+* LISA ( 2025.11.23 ~ )
+* CQRE Software 트랙 WEB 팀장
 * T3N4CI0US 소속( 2021.06 ~ 2024.03 )
 * T3N4CI0US - 부팀장( 2022.03 ~ 2024.03)
 * CCA
 * KUCIS(2024 ~ )
 * 현대오토에버 화이트해커 양성교육 (우수장학생 & 2023)
 * 순천향대학교 정보보호학과(24학번)
+* 순천향댜학교 정보보호학과 부학회장(26년도)
 * SecurityFirst - YB( 2024.03 ~ )
-* SecurityFirst - Forensic newbie( 2024.09.24 ~ 2024.12.31 )
-* SecurityFirst - Web 팀장( 2025.01.01 ~ )
+* SecurityFirst - Web 팀장( 2025.01.01 ~ 2025.12.31 )
 * 김화공업고등학교( 2021 ~ 2023 )
 * 초경량무인비행장치 조종자 자격증 1종
 * 항공전자정비 기능사
