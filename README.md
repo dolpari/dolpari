@@ -59,6 +59,7 @@ Hi i'm Dolpari Happy :( Hacking  //  남현서
 * T3N4CI0US 2023~24 CTF - EscapeCTF Final 주최 및 문제 출제 - (영남이공대학교_YESS & T3N4CI0US) - (본선) - 2023
 * SecurityFirst 순천향대학교 정보보호학과 2024년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 하)
 * SecurityFirst 순천향대학교 정보보호학과 2025년도 연초 해킹 대회 - 운영 및 문제 출제 (WEB 상, 중, 하)
+* SecurityFirst 순천향대학교 정보보호학과 2025년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 상, 중, 하)
 * 제 23회(2025) 청소년 정보보호 패스티벌(YISF) 문제 출제 및 운영
   
 ## Affiliation  
